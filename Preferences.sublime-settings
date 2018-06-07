@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"detect_indentation": false,
 	"draw_white_space": true,
 	"ensure_newline_at_eof_on_save": true,
@@ -31,22 +31,4 @@
 	"trim_trailing_white_space_on_save": true,
 	"use_tab_stops": true,
 	"wordWrap": false
-  // "always_show_minimap_viewport": false,
-  // "update_check": false,
-  // "folder_exclude_patterns":
-  // [
-  //   "tmp",
-  //   "log",
-  //   ".git",
-  //   ".svn",
-  //   "_site",
-  //   ".bundle",
-  //   ".sass-cache",
-  //   ".asset-cache",
-  //   "build",
-  //   "node_modules",
-  //   "dist",
-  //   "public/packs",
-  //   "coverage"
-  // ]
 }
